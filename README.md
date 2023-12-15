@@ -5,7 +5,11 @@
 
 
 
-- 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas (ADS) na UVV
-- ⚡️ Aprendendo Python 3/ HTML5 + CSS3
+- 🌱 Atualmente estou estudando Análise e desenvolvimento de sistemas (ADS) na UVV 3/5
+- ⚡️ Aprendendo:
+- Python 3
+- HTML5 + CSS3
+- MySQL
+- C#
 - 📝 Pretendo aprender mais futuramente para melhorar no meu desenvolvimento e habilidade como Desenvolvedor
 -->
